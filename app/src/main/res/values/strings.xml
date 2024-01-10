@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project-CheckMate</string>
+    <string name="title_activity_create_task">CreateTaskActivity</string>
+</resources>
